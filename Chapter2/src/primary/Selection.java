@@ -1,6 +1,6 @@
 package primary;
 public class Selection {
-
+//{1,2,3,4,5}
     public static void sort(Comparable[] a){
 
         int N = a.length;
