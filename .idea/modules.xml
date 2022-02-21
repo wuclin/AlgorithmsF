@@ -6,7 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter1/Chapter1.iml" filepath="$PROJECT_DIR$/Chapter1/Chapter1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter2/Chapter2.iml" filepath="$PROJECT_DIR$/Chapter2/Chapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter3/Chapter3.iml" filepath="$PROJECT_DIR$/Chapter3/Chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Toself/Toself.iml" filepath="$PROJECT_DIR$/Toself/Toself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtrace/backtrace.iml" filepath="$PROJECT_DIR$/backtrace/backtrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/dynamic/dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidewindows/slidewindows.iml" filepath="$PROJECT_DIR$/slidewindows/slidewindows.iml" />
     </modules>
   </component>
 </project>
