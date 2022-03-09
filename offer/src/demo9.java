@@ -9,9 +9,9 @@ public class demo9 {
         int high = numbers.length - 1;
         while (low < high){
             int p = low + (high - low)/2;
-            if (numbers[high] > numbers[p])
+            if (numbers[high] > numbers[p])  //说明[p..high]区间是同一个区间，如果存在最小值的话，下标应该为p
                 high = p;
-            else if (numbers[p] > numbers[high])
+            else if (numbers[p] > numbers[high])  //说明[low..p]和[p+1..high]是分别为两个区间，又因为numbers[p]对于numbers[high]，所以最小值只能是在p的右边
                 low = p+1;
             else
                 high -= 1;
