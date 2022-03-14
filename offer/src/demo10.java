@@ -1,5 +1,5 @@
 /**
- * 矩阵中的路径
+ * 矩阵中的路径，回溯
  */
 public class demo10 {
     public boolean exist(char[][] board, String word) {
